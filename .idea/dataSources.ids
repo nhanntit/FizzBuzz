@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source source="LOCAL" name="Rails FizzBuzz: development" uuid="87b7438b-3abd-43f8-9a47-f92662fba23a">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails FizzBuzz: test" uuid="dd4753df-cc45-4e64-8de9-e58f6e832947">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails FizzBuzz: production" uuid="35492077-d9c0-4c90-a1d5-55d3ef8082e3">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails FizzBuzz: cucumber" uuid="9e083124-c1ad-4dea-8e17-bf85d43fd8e4">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+</component>

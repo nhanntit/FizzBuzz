@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="3943112244">
+    <data-source source="LOCAL" name="Rails FizzBuzz: development" uuid="87b7438b-3abd-43f8-9a47-f92662fba23a">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1:3306/fizzbuzz_dev</jdbc-url>
+      <user-name>root</user-name>
+      <user-password>dfd8dfc5dfc5dfdedfdadfdd</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails FizzBuzz: test" uuid="dd4753df-cc45-4e64-8de9-e58f6e832947">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1:3306/fizzbuzz_test</jdbc-url>
+      <user-name>root</user-name>
+      <user-password>dfd8dfc5dfc5dfdedfdadfdd</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails FizzBuzz: production" uuid="35492077-d9c0-4c90-a1d5-55d3ef8082e3">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1:3306/fizzbuzz_pro</jdbc-url>
+      <user-name>root</user-name>
+      <user-password>dfd8dfc5dfc5dfdedfdadfdd</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails FizzBuzz: cucumber" uuid="9e083124-c1ad-4dea-8e17-bf85d43fd8e4">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1:3306/fizzbuzz_cu</jdbc-url>
+      <user-name>root</user-name>
+      <user-password>dfd8dfc5dfc5dfdedfdadfdd</user-password>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
